@@ -6,3 +6,4 @@
 5. [使用express搭建项目框架](https://github.com/liziwangrui/blog/issues/8)
 6. [axios 基于promise的HTTP请求客户端](https://github.com/liziwangrui/blog/issues/9)
 7. [抽象视图数据](https://github.com/liziwangrui/blog/issues/10)
+8. [构造formData数据形式](https://github.com/liziwangrui/blog/issues/11)
