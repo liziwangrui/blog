@@ -8,5 +8,5 @@
 7. [抽象视图数据](https://github.com/liziwangrui/blog/issues/10)
 8. [构造formData数据形式](https://github.com/liziwangrui/blog/issues/11)
 9. [格式化时间](https://github.com/liziwangrui/blog/issues/12)
-10. [js使用小技巧](https://github.com/liziwangrui/blog/issues/13)
-11. [ikbc键盘使用commond键被锁住的问题]https://github.com/liziwangrui/blog/issues/14
+10.[js使用小技巧](https://github.com/liziwangrui/blog/issues/13)
+11.[ikbc键盘commond键被锁住的问题](https://github.com/liziwangrui/blog/issues/14)
