@@ -10,4 +10,4 @@
 9. [格式化时间](https://github.com/liziwangrui/blog/issues/12)
 10. [js使用小技巧](https://github.com/liziwangrui/blog/issues/13)
 11. [ikbc键盘commond键被锁住的问题](https://github.com/liziwangrui/blog/issues/14)
-12. [reactjs convert to html] (https://github.com/liziwangrui/blog/issues/15)
+12. [reactjs convert to html](https://github.com/liziwangrui/blog/issues/15)
